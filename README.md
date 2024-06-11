@@ -1,6 +1,7 @@
-<div style="text-align:center;">
-    ![image](https://github.com/amber-khurshid/amber-khurshid/assets/112962916/61928a9c-b7de-4ac2-a4ec-cf76f80d5bbe)
-</div>
+<p align="center">
+  <img src="https://github.com/amber-khurshid/amber-khurshid/assets/112962916/61928a9c-b7de-4ac2-a4ec-cf76f80d5bbe" alt="image">
+</p>
+
 
 ## About Me
 
