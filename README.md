@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://github.com/amber-khurshid/amber-khurshid/assets/112962916/61928a9c-b7de-4ac2-a4ec-cf76f80d5bbe" alt="image">
-</p>
+<div style="text-align:center;">
+    ![image](https://github.com/amber-khurshid/amber-khurshid/assets/112962916/61928a9c-b7de-4ac2-a4ec-cf76f80d5bbe)
+</div>
+
 ## About Me
 
 Aspiring AI enthusiast and current Artificial Intelligence student at FAST-NUCES, passionate about uncovering the endless potential of AI and its future implications. I am eager to contribute to innovative projects and collaborate with professionals at the dynamic intersection of AI and technology. Open to networking, learning, and tackling challenges that promote personal and professional growth. Let's connect and explore the exciting worlds of AI and web development together! #AI #MachineLearning #WebDevelopment #FASTNUCES #StudentInProgress
