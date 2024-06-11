@@ -1,3 +1,12 @@
+![Coding Girl 1](https://media.giphy.com/media/SWoRK57ETC2JO/giphy.gif)
+
+![Coding Girl 2](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+
+![Coding Girl 3](https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif)
+
+![Coding Girl 4](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
+
+![Coding Girl 5](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
 
 
 
