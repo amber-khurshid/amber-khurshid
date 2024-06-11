@@ -53,7 +53,7 @@ Aspiring AI enthusiast and current Artificial Intelligence student at FAST-NUCES
 
 ## 🌐 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://twitter.com/AmberKhurshid_">
     <img src="https://img.shields.io/twitter/follow/AmberKhurshid_?style=social" alt="Twitter" />
   </a>
@@ -66,6 +66,7 @@ Aspiring AI enthusiast and current Artificial Intelligence student at FAST-NUCES
     <img src="https://img.shields.io/badge/Instagram-Follow-red?style=social&logo=instagram" alt="Instagram" />
   </a>
 </p>
+
 
 
 
