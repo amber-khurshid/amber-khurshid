@@ -78,4 +78,3 @@ For any inquiries, reach out to me at amberkhurshidraja@gmail.com.
 
 ---
 
-![Footer GIF](https://media.giphy.com/media/xT39CXg70nNS0MFNLy/giphy.gif)
