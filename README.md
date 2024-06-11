@@ -55,20 +55,8 @@ Hi! I'm Amber Khurshid, a passionate developer skilled in a variety of technolog
   </a>
 </p>
 
-## 🤖 My Projects
 
-### [Special Project](https://github.com/amber-khurshid/special-project)
 
-![Project GIF](https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif)
-
-This project is an innovative solution for [brief description]. It leverages [technologies] to achieve [goal]. Feel free to explore and contribute!
-
-## 📢 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Machine Learning Models](https://yourblog.com/understanding-machine-learning-models)
-- [A Dive into Artificial Intelligence](https://yourblog.com/a-dive-into-artificial-intelligence)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📧 Contact Me
 
