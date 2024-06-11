@@ -1,6 +1,4 @@
-# Welcome to Amber Khurshid's Special Repository 👋
 
-![Welcome GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ## About Me
 
