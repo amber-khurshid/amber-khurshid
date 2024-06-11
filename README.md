@@ -1,4 +1,4 @@
-![image](https://github.com/amber-khurshid/amber-khurshid/assets/112962916/0b99c4a9-8fb4-4372-8f2b-a71cef3f3a30)# Welcome to Amber Khurshid's Special Repository 👋
+# Welcome to Amber Khurshid's Special Repository 👋
 
 ![Welcome GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
