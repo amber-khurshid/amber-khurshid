@@ -1,3 +1,4 @@
+![image](https://github.com/amber-khurshid/amber-khurshid/assets/112962916/e7eadb2b-10bf-4548-8958-6eaeb38edbbb)
 
 
 ![Alternate Coding Girl](https://tenor.com/view/geek-girl-green-hair-computer-confused-gif-25438257)
