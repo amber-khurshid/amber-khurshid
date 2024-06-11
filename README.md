@@ -53,6 +53,9 @@ Hi! I'm Amber Khurshid, a passionate developer skilled in a variety of technolog
   <a href="https://linkedin.com/in/amber-khurshid">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
+  <a href="https://www.instagram.com/_amberkhh_/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=social&logo=instagram" alt="Instagram" />
+  </a>
 </p>
 
 
