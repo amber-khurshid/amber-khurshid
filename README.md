@@ -2,7 +2,8 @@
 
 ## About Me
 
-Hi! I'm Amber Khurshid, a passionate developer skilled in a variety of technologies and always eager to learn and explore more in the fields of Machine Learning and Artificial Intelligence.
+Aspiring AI enthusiast and current Artificial Intelligence student at FAST-NUCES, passionate about uncovering the endless potential of AI and its future implications. I am eager to contribute to innovative projects and collaborate with professionals at the dynamic intersection of AI and technology. Open to networking, learning, and tackling challenges that promote personal and professional growth. Let's connect and explore the exciting worlds of AI and web development together! #AI #MachineLearning #WebDevelopment #FASTNUCES #StudentInProgress
+
 
 - 🌱 I’m currently delving into advanced Machine Learning techniques and AI algorithms.
 - 💬 Ask me about C++, Python, Machine Learning, Artificial Intelligence, Databases, Assembly Language, and Web Development.
@@ -44,19 +45,25 @@ Hi! I'm Amber Khurshid, a passionate developer skilled in a variety of technolog
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=amber-khurshid&theme=darkhub" alt="GitHub Trophies" />
 </a>
 
+
+
+
 ## 🌐 Connect with Me
 
 <p>
   <a href="https://twitter.com/AmberKhurshid_">
     <img src="https://img.shields.io/twitter/follow/AmberKhurshid_?style=social" alt="Twitter" />
   </a>
+  <br/>
   <a href="https://linkedin.com/in/amber-khurshid">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
+  <br/>
   <a href="https://www.instagram.com/_amberkhh_/">
     <img src="https://img.shields.io/badge/Instagram-Follow-red?style=social&logo=instagram" alt="Instagram" />
   </a>
 </p>
+
 
 
 
