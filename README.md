@@ -1,14 +1,4 @@
-![image](https://github.com/amber-khurshid/amber-khurshid/assets/112962916/e7eadb2b-10bf-4548-8958-6eaeb38edbbb)
-
-
-![Alternate Coding Girl](https://tenor.com/view/geek-girl-green-hair-computer-confused-gif-25438257)
-
-
-
-
-
-
-
+![image](https://github.com/amber-khurshid/amber-khurshid/assets/112962916/61928a9c-b7de-4ac2-a4ec-cf76f80d5bbe)
 ## About Me
 
 Aspiring AI enthusiast and current Artificial Intelligence student at FAST-NUCES, passionate about uncovering the endless potential of AI and its future implications. I am eager to contribute to innovative projects and collaborate with professionals at the dynamic intersection of AI and technology. Open to networking, learning, and tackling challenges that promote personal and professional growth. Let's connect and explore the exciting worlds of AI and web development together! #AI #MachineLearning #WebDevelopment #FASTNUCES #StudentInProgress
