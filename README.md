@@ -1,12 +1,13 @@
-![Coding Girl 1](https://media.giphy.com/media/SWoRK57ETC2JO/giphy.gif)
+![Coding Girl 1](https://camo.githubusercontent.com/2b5d39e6cee1e0bbb1315d2ffc758aa65dfb9001df597d452cd8f7df1b2ddb8a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966)
 
-![Coding Girl 2](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+![Coding Girl 2](https://media.giphy.com/media/SWoRK57ETC2JO/giphy.gif)
 
-![Coding Girl 3](https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif)
+![Coding Girl 3](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
 
-![Coding Girl 4](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
+![Coding Girl 4](https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif)
 
 ![Coding Girl 5](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
+
 
 
 
