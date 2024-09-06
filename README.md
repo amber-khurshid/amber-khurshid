@@ -42,11 +42,7 @@ Aspiring AI enthusiast and current Artificial Intelligence student at FAST-NUCES
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amber-khurshid&layout=compact&theme=dark" alt="Top Languages" />
 </a>
 
-## 🏆 GitHub Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=amber-khurshid&theme=darkhub" alt="GitHub Trophies" />
-</a>
 
 
 
