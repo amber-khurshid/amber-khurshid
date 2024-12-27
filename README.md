@@ -10,7 +10,7 @@ Aspiring AI enthusiast and current Artificial Intelligence student at FAST-NUCES
 
 - 🌱 I’m currently delving into advanced Machine Learning techniques and AI algorithms.
 - 💬 Ask me about C++, Python, Machine Learning, Artificial Intelligence, Databases, Assembly Language, and Web Development.
-- 📫 How to reach me: amberkhurshidraja@gmail.com
+- 📫 How to reach me: p229295@pwr.nu.edu.pk
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amber-khurshid&color=blue&style=flat-square)
 
